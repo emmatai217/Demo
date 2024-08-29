@@ -1,0 +1,7 @@
+newfile
+<<<<<<< HEAD
+Line_master1
+=======
+Line_feature1
+//This is my newfeature branch,and I want to merge into main branch.//
+>>>>>>> newfeature
